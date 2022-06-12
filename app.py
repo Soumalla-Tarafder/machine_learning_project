@@ -8,7 +8,7 @@ app=Flask(__name__)
 
 @app.route("/",methods=['GET','POST'])
 def index():
-    return "kire bokachoda haaa kr boro kore"
+    return "hello world"
 
 
 
