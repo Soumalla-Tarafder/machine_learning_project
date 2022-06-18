@@ -72,3 +72,9 @@ build docker image
 ```
 docker build -t <imagename>:<tagename> .
 ```
+
+
+
+```
+python setup.py install
+```
